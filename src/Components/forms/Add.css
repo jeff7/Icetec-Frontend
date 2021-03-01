@@ -1,0 +1,13 @@
+.content_add{
+    display: flex;
+    flex-direction: column;
+}
+
+.div_input{
+
+    margin: 20px;
+}
+
+.buttons{
+    margin: 0 5px;
+}

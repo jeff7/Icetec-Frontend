@@ -1,0 +1,14 @@
+.buttons {
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+
+  }
+
+  .buttons Button{
+    margin: 0 5px;
+  }
+
+  .overflow{
+    overflow: scroll;
+  }
